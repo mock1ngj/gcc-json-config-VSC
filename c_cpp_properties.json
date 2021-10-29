@@ -19,6 +19,7 @@
             "cppStandard": "gnu++14",
             "intelliSenseMode": "linux-gcc-x64",
             "compilerArgs": [
+                "-rdynamic"
                 "-Wall",
                 "-Wextra",
                 "-mtune=native",
